@@ -1,0 +1,19 @@
+- Princípio do aberto/fechado => Extendend
+- Princípio da inversão de controle => 
+- Princípio da segregação de interfaces => Não ser forçados a depender de intarfeces que nao utilizam.
+- Princípio da responsabilidade única => Uma classe de ter uma funcionalidade para mudar.
+- Princípio da substituição => Classes derivadas ser capazes de substitui as classes bases.
+
+Contexto
+1) Participantes => classes nos padroes de projetos
+2) Requisitos não funcionais -> desempenho, perfomance
+3) Negociações => 
+4) Resultados => impactps negativos
+
+var = 5
+var = 'mARCOS'
+
+Categorias de padrões
+1) padrões de criação (Singleton)
+2) padrões estruturais (Adapter)
+3) padrões comportamentais
